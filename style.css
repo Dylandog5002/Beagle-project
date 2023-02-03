@@ -91,6 +91,7 @@ main{
 	margin-right: 2%;
 	border: 20px double #734f2f;
 	border-radius: 10px;
+	text-align: right;
 
 }
 
@@ -179,7 +180,20 @@ form div{
 	padding-right: 4em;
 }
 
-.formgrid{
-	 
+.img{
+	width: 45%;
 }
+.text{
+	margin: 0 auto;
+	width: 80%;
+	min-height: 500px;
+font-family: 'Crimson Pro', serif;
+	text-align: right;
+	vertical-align: text-top;
+	font-size: 1.8em;
+	
+}
+
+
+
 
