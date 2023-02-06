@@ -115,7 +115,8 @@ blockquote{
 
 
 table{
-	
+	text-align: right;
+	margin: 
 }
 
 
@@ -153,8 +154,9 @@ footer{
 /*Style rule for form element */
 	form {
 		background-color: #e4f2ea;
-		padding: 1em;
+		padding-right: 150px;
 		text-align: right;
+		margin-top: 5em;
 		
 	}
 	
@@ -163,7 +165,7 @@ footer{
 		color: #000000;
 	}
 
-form ledgend{
+form ledged{
 	padding-right: 8em;
 }
 
@@ -172,7 +174,7 @@ form ul{
 }
 
 form li{
-	padding-right: 16em;
+	padding-righ: 16em;
 	list-style-type: none;
 }
 
@@ -182,6 +184,7 @@ form div{
 
 .img{
 	width: 45%;
+	padding-bottom: 4em;
 }
 .text{
 	margin: 0 auto;
@@ -194,6 +197,19 @@ font-family: 'Crimson Pro', serif;
 	
 }
 
+frame{
+	position: relative;
+	max-width: 450px;
+	float: right;
+	text-align: center;
+min-height: 500px;
+}
+
+#img{
+	float: left;
+	max-height: 400px;
+	width: 65%;
+}
 
 
 
